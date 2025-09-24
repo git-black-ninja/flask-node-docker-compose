@@ -14,7 +14,7 @@ A simple full-stack application with:
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/git-black-ninja/flask-node-docker-compose
-cd node-flask-docker-compose
+cd flask-node-docker-compose/
 ```
 
 ### Build & Start Containers
