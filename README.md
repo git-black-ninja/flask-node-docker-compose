@@ -6,19 +6,6 @@ A simple full-stack application with:
 - **Backend:** Flask (Python)
 - **Containerization:** Docker & Docker Compose
 
----
-
-## 📂 Project Structure
-
-project-root/
-├── frontend/ # Node.js + Express app
-│ ├── Dockerfile
-│ └── ...
-├── backend/ # Flask app
-│ ├── Dockerfile
-│ └── ...
-├── docker-compose.yml
-└── README.md
 
 ---
 
@@ -26,7 +13,7 @@ project-root/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone git@github.com:<your-username>/node-flask-docker-compose.git
+git clone https://github.com/git-black-ninja/flask-node-docker-compose
 cd node-flask-docker-compose
 ```
 
